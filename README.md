@@ -1,4 +1,5 @@
 **Discord Message Extractor**
+
 This C++ script was designed to take files from a specific txt format (found in this video: https://www.youtube.com/watch?v=eoM2-s3HxPc).
 It will exclude messages, either from yourself or from the other user, so you can essentially view your own messages, or extract messages from the other person.
 
